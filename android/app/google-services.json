@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794372578685",
+    "project_id": "dbtodo-8d0ee",
+    "storage_bucket": "dbtodo-8d0ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794372578685:android:a31c985b477eb9fa458014",
+        "android_client_info": {
+          "package_name": "pk.intellilogics.week6_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZMNdUnvPrykLOu0lbb3C9FkCzCMakbn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
